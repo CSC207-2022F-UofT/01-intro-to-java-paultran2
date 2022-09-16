@@ -35,6 +35,7 @@ public class Basics {
         /* 3. In Python, we could print out code using the print() function.
          *    In Java, we do the same thing by using System.out.println();
          *    In the line below, we print the result of 7 + 5
+         *    Test comment
          *
          *    (Relevant reading: 1.1.3. Printing things)
          */
